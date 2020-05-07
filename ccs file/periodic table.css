@@ -1,0 +1,381 @@
+
+			body {
+		
+				margin: 0px;
+				padding: 0px;
+				background: url('im.jpg');
+				
+			}
+		
+			.button       { background-color: rgb(255, 136, 0);
+					width: 100%;
+					height:100%;}
+			.button2      {background-color: #c5b1c7;
+					width: 100%;
+					height:100%;}
+			.button3      {background-color:#CC66CC;
+					width: 100%;
+					height:100%;}
+			.button4      {background-color:  #0066CC;
+					width: 100%;
+					height:100%;}
+			.button5      {background-color: rgb(202, 140, 47);
+					width: 100%;
+					height:100%;}
+			.button6      {background-color: rgba(209, 78, 46, 0.657);
+					width: 100%;
+					height:100%;}
+			.button7      {background-color: rgba(209, 78, 46, 0.657);
+					width: 100%;
+					height:100%;}
+			.button8      {background-color: rgba(209, 78, 46, 0.657);
+					width: 100%;
+					height:100%;}
+			.button9      {background-color: rgba(219, 182, 112, 0.459);
+					width: 100%;
+					height:100%;}
+			.button10     {background-color:  #c5b1c7;
+					width: 100%;
+					height:100%;}
+			.button11     {background-color:#CC66CC;
+					width: 100%;
+					height:100%;}
+			.button12     {background-color:  #0066CC;
+					width: 100%;
+					height:100%;}
+			.button13     {background-color: rgba(124, 219, 60, 0.801);
+					width: 100%;
+					height:100%;}
+			.button14     {background-color:  rgb(202, 140, 47);
+				width: 100%;
+					width: 100%;
+					height:100%;}
+			.button15     {background-color: rgba(209, 78, 46, 0.657);
+					width: 100%;
+					height:100%;}
+			.button16     {background-color: rgba(209, 78, 46, 0.657);
+					width: 100%;
+					height:100%;}
+			.button17     {background-color:  rgba(219, 182, 112, 0.459);
+					width: 100%;
+					height:100%;}
+			.button18     {background-color:  #c5b1c7;
+					width: 100%;
+					height:100%;}
+			.button19     {background-color:#CC66CC;
+					width: 100%;
+					height:100%;}
+			.button20     {background-color:  #0066CC;
+					width: 100%;
+					height:100%;}
+			.button21     {background-color: rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button22     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button23     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button24     {background-color:  rgba(255, 252, 77, 0.89);
+					height:100%;}
+			.button25     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button26     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button27     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button28     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button29     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button30     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button31     {background-color:rgba(124, 219, 60, 0.801);
+					width: 100%;
+					height:100%;}
+			.button32     {background-color:  rgb(202, 140, 47);
+				width: 100%;
+					width: 100%;
+					height:100%;} 
+			.button33     {background-color: rgb(202, 140, 47);
+				width: 100%;
+					width: 100%;
+					height:100%;} 
+			.button34     {background-color:rgba(209, 78, 46, 0.657);
+					width: 100%;
+					height:100%;}
+			.button35     {background-color: rgba(219, 182, 112, 0.459);
+					width: 100%;
+					height:100%;}
+			.button36     {background-color:  #c5b1c7;
+					width: 100%;
+					height:100%;}
+			.button37     {background-color: #CC66CC;
+					width: 100%;
+					height:100%;}
+			.button38     {background-color:  #0066CC;
+					width: 100%;
+					height:100%;}
+			.button39     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button40     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button41     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button42     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button43     {background-color: rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button44     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button45     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button46     {background-color:  rgba(255, 252, 77, 0.89);
+					height:100%;}
+			.button47     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button48     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button49     {background-color: rgba(124, 219, 60, 0.801);
+					width: 100%;
+					height:100%;}
+			.button50     {background-color: rgba(124, 219, 60, 0.801);
+					width: 100%;
+					height:100%;}
+			.button51     {background-color:  rgb(202, 140, 47);
+				width: 100%;
+					width: 100%;
+					height:100%;}
+			.button52     {background-color: rgb(202, 140, 47);
+				width: 100%;
+					width: 100%;
+					height:100%;}
+			.button53     {background-color:  rgba(219, 182, 112, 0.459);
+					width: 100%;
+					height:100%;}
+			.button54     {background-color:  #c5b1c7;
+					width: 100%;
+					height:100%;}
+			.button55     {background-color:#CC66CC;
+					width: 100%;
+					height:100%;}
+			.button56     {background-color: #0066CC;
+					width: 100%;
+					height:100%;}
+			.button5657    {background-color: rgb(233, 187, 227);
+				width: 100%;
+				height:100%;}
+			.button57     {background-color: rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button58     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button59     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button60     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button61     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button62     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button63     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button64     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button65     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button66     {background-color:  rgb(231, 149, 220);;
+					width: 100%;
+					height:100%;}
+			.button67     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button68     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button69     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button70     {background-color:  rgb(231, 149, 220);
+					width: 100%;
+					height:100%;}
+			.button71     {background-color:  rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button72     {background-color: rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button73     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button74     {background-color:  rgba(255, 252, 77, 0.89);
+					height:100%;}
+			.button75     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button76     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button77     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button78     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button79     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button80     {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button81     {background-color:rgba(124, 219, 60, 0.801);
+					width: 100%;
+					height:100%;}
+			.button82     {background-color:rgba(124, 219, 60, 0.801);
+					width: 100%;
+					height:100%;}
+			.button83     {background-color:rgba(124, 219, 60, 0.801);
+					width: 100%;
+					height:100%;}
+			.button84     {background-color:  rgb(202, 140, 47);
+				width: 100%;
+					width: 100%;
+					height:100%;}
+			.button85     {background-color:  rgba(219, 182, 112, 0.459);
+					width: 100%;
+					height:100%;}
+			.button86     {background-color:  #c5b1c7;
+					width: 100%;
+					height:100%;}
+			.button87     {background-color: #CC66CC;
+					width: 100%;
+					height:100%;}
+			.button88     {background-color:  #0066CC;
+					width: 100%;
+					height:100%;}
+			.button88103  {background-color:  rgb(233, 187, 227);
+				width: 100%;
+				height:100%;}
+			.button89     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button90     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button91     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button92     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button93     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button94     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button95     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button96     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button97     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button98     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button99     {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button100    {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button101    {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button102    {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button103    {background-color: rgb(233, 187, 227);
+					width: 100%;
+					height:100%;}
+			.button104    {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button105    {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button106    {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button107    {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button108    {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button109    {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button110    {background-color:  rgba(255, 252, 77, 0.89);
+					height:100%;}
+			.button111    {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button112    {background-color:  rgba(255, 252, 77, 0.89);
+					width: 100%;
+					height:100%;}
+			.button113    {background-color: rgba(150, 165, 167, 0.068);
+					width: 100%;
+					height:100%;}
+			.button114    {background-color: rgba(150, 165, 167, 0.068);
+					width: 100%;
+					height:100%;}
+			.button115    {background-color: rgba(150, 165, 167, 0.068);
+					width: 100%;
+					height:100%;}
+			.button116    {background-color: rgba(150, 165, 167, 0.068);
+					width: 100%;
+					height:100%;}
+			.button117    {background-color: rgba(150, 165, 167, 0.068);
+					width: 100%;
+					height:100%;}
+			.button118    {background-color: rgba(150, 165, 167, 0.068);
+					width: 100%;
+					height:100%;}
+			table         { border-collapse: collapse;
+					border: 1px;
+					width: 100%;
+					height: 100%;}
+			tr, td        { 
+					border: 1px;
+					font-size: 200%;}
+					
+		   
+		
